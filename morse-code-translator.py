@@ -22,3 +22,4 @@ def morse_to_text(morse_code):
     text = ''
     morse_code = morse_code.split(' ')
     for code in morse_code:
+        for key, value in MORSE_CODE_DICT.items():
