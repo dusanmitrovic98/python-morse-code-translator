@@ -24,3 +24,4 @@ def morse_to_text(morse_code):
     for code in morse_code:
         for key, value in MORSE_CODE_DICT.items():
             if code == value:
+                text += key
