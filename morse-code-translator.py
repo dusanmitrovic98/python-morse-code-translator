@@ -31,3 +31,4 @@ def morse_to_text(morse_code):
 
 # Usage
 input_text = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+morse_code = text_to_morse(input_text)
