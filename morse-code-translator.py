@@ -34,3 +34,4 @@ input_text = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
 morse_code = text_to_morse(input_text)
 print("Text to Morse Code:", morse_code)
 
+text = morse_to_text(morse_code)
