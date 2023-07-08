@@ -26,3 +26,4 @@ def morse_to_text(morse_code):
             if code == value:
                 text += key
                 break
+    return text
