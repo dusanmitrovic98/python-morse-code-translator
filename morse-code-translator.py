@@ -30,3 +30,4 @@ def morse_to_text(morse_code):
 
 
 # Usage
+input_text = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
