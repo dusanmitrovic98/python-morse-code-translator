@@ -16,3 +16,4 @@ def text_to_morse(text):
         if char.upper() in MORSE_CODE_DICT:
             morse_code += MORSE_CODE_DICT[char.upper()] + ' '
     return morse_code
+
