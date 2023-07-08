@@ -18,3 +18,4 @@ def text_to_morse(text):
     return morse_code
 
 
+def morse_to_text(morse_code):
