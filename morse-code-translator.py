@@ -27,3 +27,4 @@ def morse_to_text(morse_code):
                 text += key
                 break
     return text
+
